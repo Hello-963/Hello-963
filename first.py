@@ -1,3 +1,5 @@
+#Sample Program
+#Playing with git
 print("Hello")
 print("Sample text for amend command that I want to add")
 print("Namaste")
