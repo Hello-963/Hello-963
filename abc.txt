@@ -1,2 +1,7 @@
 Hi how are you?
 This is a sample file named abc
+<<<<<<< HEAD
+=======
+Now this is going to be pushed
+
+>>>>>>> ba0d13827a38a11db5ffe0e07489ed7742e326c9
